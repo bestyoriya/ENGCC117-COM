@@ -13,4 +13,4 @@ int main () {
 	printf ( " turn off the gas \n " ) ;
 	printf ( " Put noodles in a cup \n " ) ;
 	printf ( " add seasoning \n " ) ;
-}
+}//end function

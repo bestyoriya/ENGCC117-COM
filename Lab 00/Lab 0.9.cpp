@@ -17,4 +17,4 @@ int main() {
    }
    printf( "All prime numbers %d from %d" , sum , n ) ;
    return 0;
-}
+}//end function
