@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main () {
 	printf ( " prepare noodles \n " ) ;
 	printf ( " prepare eggs, vegetables \n " ) ;
