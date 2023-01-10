@@ -11,8 +11,7 @@ void printPoint(Point m) {
 
 int main() {
     
-  Point m = {1, 2};
-
+  Point m = {2, 4};
   printPoint(m);
 
   return 0;
